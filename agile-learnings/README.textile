@@ -1,0 +1,27 @@
+MS Project Plans are a Fairy Tale: How Agile Gets you the best aspects of a sober reality and a higly productive organization.
+
+Here is hwo I see traditional project plans:
+
+  - waterfall
+  - fairy tale (are you fo'serious? you can predict the future? gimme some stock tips!)
+    oh, so you're a psychic?
+  - What happens when your psychic powers fail?
+    Adjust the project plan? (screaming guy picture)
+    How many times can you do this in a week without loss of sanity or being brought up on homicide charges?
+    In a day? 
+  - But we thought everything was going well....
+    Because adjustments are hard to make, it is hard to admit that you're not superman
+  - What about that critical feature that we just realized needs to get developed?
+    Just add it in! after all, we have an entire MONTH for thiso
+
+http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model
+
+  Denial
+  Anger
+  Bargaining
+  Depression
+  Acceptance
+
+
+Snow White and teh 7 Dwarves: Organizational Antipatterns are Thriving in Your Company
+
